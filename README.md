@@ -1,5 +1,10 @@
 # clj_chestnut
 
+** My own notes [AHRJ]:**
+
+In the clj_chestnut directory (in Spacemacs), type `, '` to CIDER jack-in. Once there, run `(run)` in the REPL to fire up the server and point your browser to port 3449. There, Figwheel and live reloading will happen, allowing you to play with the Clojure/ClojureScript code as it interacts with the Om wrapper for react. 
+
+Too cool!
 
 ## Development
 
